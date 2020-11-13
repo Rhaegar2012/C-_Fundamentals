@@ -1,0 +1,10 @@
+C:\Users\joseb\source\repos\Chapter_4_Typing_Game\bin\Debug\Chapter_4_Typing_Game.exe.config
+C:\Users\joseb\source\repos\Chapter_4_Typing_Game\bin\Debug\Chapter_4_Typing_Game.exe
+C:\Users\joseb\source\repos\Chapter_4_Typing_Game\bin\Debug\Chapter_4_Typing_Game.pdb
+C:\Users\joseb\source\repos\Chapter_4_Typing_Game\obj\Debug\Chapter_4_Typing_Game.csprojAssemblyReference.cache
+C:\Users\joseb\source\repos\Chapter_4_Typing_Game\obj\Debug\Chapter_4_Typing_Game.Form1.resources
+C:\Users\joseb\source\repos\Chapter_4_Typing_Game\obj\Debug\Chapter_4_Typing_Game.Properties.Resources.resources
+C:\Users\joseb\source\repos\Chapter_4_Typing_Game\obj\Debug\Chapter_4_Typing_Game.csproj.GenerateResource.cache
+C:\Users\joseb\source\repos\Chapter_4_Typing_Game\obj\Debug\Chapter_4_Typing_Game.csproj.CoreCompileInputs.cache
+C:\Users\joseb\source\repos\Chapter_4_Typing_Game\obj\Debug\Chapter_4_Typing_Game.exe
+C:\Users\joseb\source\repos\Chapter_4_Typing_Game\obj\Debug\Chapter_4_Typing_Game.pdb
