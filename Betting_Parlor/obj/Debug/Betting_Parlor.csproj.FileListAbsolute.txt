@@ -1,0 +1,10 @@
+C:\Users\joseb\source\repos\Betting_Parlor\bin\Debug\Betting_Parlor.exe.config
+C:\Users\joseb\source\repos\Betting_Parlor\bin\Debug\Betting_Parlor.exe
+C:\Users\joseb\source\repos\Betting_Parlor\bin\Debug\Betting_Parlor.pdb
+C:\Users\joseb\source\repos\Betting_Parlor\obj\Debug\Betting_Parlor.csprojAssemblyReference.cache
+C:\Users\joseb\source\repos\Betting_Parlor\obj\Debug\Betting_Parlor.Form1.resources
+C:\Users\joseb\source\repos\Betting_Parlor\obj\Debug\Betting_Parlor.Properties.Resources.resources
+C:\Users\joseb\source\repos\Betting_Parlor\obj\Debug\Betting_Parlor.csproj.GenerateResource.cache
+C:\Users\joseb\source\repos\Betting_Parlor\obj\Debug\Betting_Parlor.csproj.CoreCompileInputs.cache
+C:\Users\joseb\source\repos\Betting_Parlor\obj\Debug\Betting_Parlor.exe
+C:\Users\joseb\source\repos\Betting_Parlor\obj\Debug\Betting_Parlor.pdb
